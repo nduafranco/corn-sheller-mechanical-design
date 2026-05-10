@@ -26,7 +26,7 @@ The following components were identified for procurement and fabrication:
 | 6 | 1 | Corn Sheller Part | Rotary shelling drum |
 
 ## How to View the Design
-* **For Quick Review:** Open `corn sheller drawing.pdf` to view the high-resolution orthographic projections and parts list.
+* **For Quick Review:** Open `corn sheller drawing.pdf` to view the high-resolution orthographic projections and parts list. and a video of the animation of assembly.
 * **For Engineering Edit:** The raw `.dwg` source file is included for technical review and modification.
 
 ## License
